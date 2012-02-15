@@ -10,4 +10,9 @@ public class LearnTest {
 	public void test() {
 		Assert.assertTrue(true); //all good
 	}
+	
+	@Test
+	public void test2() {
+		Assert.assertTrue(true); //all good
+	}
 }
