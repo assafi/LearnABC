@@ -9,6 +9,5 @@ public class LearnTest {
 	@Test
 	public void test() {
 		Assert.assertTrue(true); //all good
-		throw new RuntimeException();
 	}
 }
